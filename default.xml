@@ -514,4 +514,5 @@
   <project path="device/asus/clovertrail" name="zf5/android_device_asus_clovertrail" remote="github" revision="refs/heads/master" />
   <project path="device/intel/common" name="zf5/android_device_intel_common" remote="github" revision="refs/heads/master" />
   <project path="hardware/intel" name="zf5/android_hardware_intel" groups="intel" remote="github" revision="refs/heads/master" />
+  <project path="frameworks/webview" name="zf5/android_frameworks_webview" remote="github" revision="refs/heads/master" />
 </manifest>
